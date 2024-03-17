@@ -1,2 +1,5 @@
-﻿  Source03.cpp
+﻿  Source05.cpp
+C:\JH\Project1\Project1\Source05.cpp(17,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\JH\Project1\Project1\Source05.cpp(52,6): warning C4101: 'ball' :참조되지 않은 지역 변수입니다.
+C:\JH\Project1\Project1\Source05.cpp(51,6): warning C4101: 'strike' :참조되지 않은 지역 변수입니다.
   Project1.vcxproj -> C:\JH\Project1\x64\Debug\Project1.exe
